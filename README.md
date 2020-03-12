@@ -84,7 +84,7 @@ API documentation for E-commerce
             }
 
 
-### Update Category [PUT /{id}]
+### Update Category with PUT [PUT /{id}]
 
 + Parameters
     + id (number) - ID of category must integer
@@ -100,7 +100,7 @@ API documentation for E-commerce
 + Response 204 (application/json)
 
 
-### Update Category [PATCH /{id}]
+### Update Category with PATCH [PATCH /{id}]
 
 + Parameters
     + id (number) - ID of category must integer
