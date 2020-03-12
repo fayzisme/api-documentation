@@ -1,6 +1,4 @@
-# api-documentation
-HOST: https://private-8c9d0c-fayzisme.apiary-mock.com/categories?page=1&limit=10
-
+HOST: https://private-8c9d0c-fayzisme.apiary-mock.com/
 # fayzisme API
 
 API documentation for E-commerce 
@@ -108,8 +106,8 @@ API documentation for E-commerce
 + Response 200 (application/json)
 
         {
-            "name": "TOPI",
-            "icon": "topi.png",
+            "name": "KAOS",
+            "icon": "kaos.png",
             "created_at": "2020-03-11T15:16:32.671Z",
             "updated_at": "2020-03-11T15:40:32.671Z"
         }
